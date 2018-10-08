@@ -6,3 +6,4 @@ create a repository
 ## git great
 ### branch A
 some content
+尝试编辑器
