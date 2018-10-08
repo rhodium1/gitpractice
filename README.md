@@ -7,3 +7,6 @@ create a repository
 ### branch A
 some content
 尝试编辑器
+
+### fix-b
+something in fix-b
