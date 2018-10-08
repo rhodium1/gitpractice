@@ -10,3 +10,6 @@ some content
 
 ### fix-b
 something in fix-b
+
+### fix-c
+something right
